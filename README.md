@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Daniel Brendel, a web and C++ software developer. 
+
+Follow me on Twitter: @dbrendel1988
+
 <!--
 **danielbrendel/danielbrendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
