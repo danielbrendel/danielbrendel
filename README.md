@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniel Brendel, a web and C++ software developer based in germany. 
+I'm Daniel Brendel, a web and c++ software developer based in germany. 
 
 <!--
 **danielbrendel/danielbrendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
