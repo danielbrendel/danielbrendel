@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Daniel Brendel, a web and c++ software developer based in germany. 
+I'm Daniel Brendel, an indie software developer from germany.
+
+I am mostly focusing on web development, game development and library development.
 
 <!--
 **danielbrendel/danielbrendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
