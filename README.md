@@ -2,7 +2,7 @@
 
 I'm Daniel Brendel, an indie software developer from germany.
 
-I am mostly focusing on web, game, library and app development.
+I mostly focus on web, game, library and app development.
 
 <!--
 **danielbrendel/danielbrendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
