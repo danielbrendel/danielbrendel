@@ -33,7 +33,7 @@ I am a software developer and project founder from germany. I love creating web 
 
 ## Currently working at 💼
 
-I am currently building my own business
+After working as a software developer in various companies I am now building my own business.
 
 <!--
 **danielbrendel/danielbrendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
