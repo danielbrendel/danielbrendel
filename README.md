@@ -36,6 +36,7 @@ I am a software developer and project founder from germany. I love creating web 
 - [YouTube](https://www.youtube.com/channel/UCPETT7XPpvLHeUTZ-4l-K5w)
 - [LinkedIn](https://www.linkedin.com/in/daniel-brendel-88375a248)
 - [Mastodon](https://mastodon.social/@dbdev)
+- [Bluesky](https://bsky.app/profile/danielbrendel.bsky.social)
 
 ## Currently working at 💼
 
