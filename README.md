@@ -34,9 +34,9 @@ I am a software developer and project founder from germany. I love creating web 
 - [Steam](https://store.steampowered.com/developer/danielbrendel)
 - [itch.io](https://danielbrendel.itch.io/)
 - [YouTube](https://www.youtube.com/channel/UCPETT7XPpvLHeUTZ-4l-K5w)
-- [LinkedIn](https://www.linkedin.com/in/daniel-brendel-88375a248)
-- [Mastodon](https://mastodon.social/@dbdev)
 - [Bluesky](https://bsky.app/profile/danielbrendel.bsky.social)
+- [Mastodon](https://mastodon.social/@dbdev)
+- [LinkedIn](https://www.linkedin.com/in/daniel-brendel-88375a248)
 
 ## Currently working at 💼
 
