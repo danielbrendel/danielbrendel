@@ -1,6 +1,6 @@
 # Hi there! I am Daniel Brendel 👋
 
-I am a software developer and project founder from germany. I love creating web applications, games, programmer tools and various other kinds of software. I am the founder of various projects. This helped me gaining extensive expertise in software development, project hosting, marketing, customer support and management. I am also a hobby gamer, occassional drummer and singer and I also enjoy a nice coffee at a coffeeshop while working on things using my laptop. Furthermore I like hiking and other sporting activities.
+I am a senior software developer and project founder from germany. I love creating web applications, games, programmer tools and various other kinds of software. I am the founder of various projects. This helped me gaining extensive expertise in software development, project hosting, marketing, customer support and management. I am also a hobby gamer, occassional drummer and singer and I also enjoy a nice coffee at a coffeeshop while working on things using my laptop. Furthermore I like hiking and other sporting activities.
 
 ## Technologies 🔧
 
