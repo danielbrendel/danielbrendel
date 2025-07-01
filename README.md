@@ -37,7 +37,6 @@ I love creating complex software products across a range of fields, including we
 - [itch.io](https://danielbrendel.itch.io/)
 - [YouTube](https://www.youtube.com/channel/UCPETT7XPpvLHeUTZ-4l-K5w)
 - [Bluesky](https://bsky.app/profile/danielbrendel.com)
-- [Mastodon](https://mastodon.social/@dbdev)
 - [LinkedIn](https://www.linkedin.com/in/daniel-brendel-88375a248)
 
 ## Currently working at 💼
