@@ -31,17 +31,9 @@ I love creating complex software products across a range of fields, including we
 [![Activity](https://github-readme-stats.vercel.app/api?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel) \
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel)
 
-
-## Where to find me 📫
-- [Steam](https://store.steampowered.com/developer/danielbrendel)
-- [itch.io](https://danielbrendel.itch.io/)
-- [YouTube](https://www.youtube.com/channel/UCPETT7XPpvLHeUTZ-4l-K5w)
-- [Bluesky](https://bsky.app/profile/danielbrendel.com)
-- [LinkedIn](https://www.linkedin.com/in/daniel-brendel-88375a248)
-
 ## Currently working at 💼
 
-After working as a software developer in various companies I am now pursuing to become a full-time OpenSource developer
+After working as a software developer in various companies I am now pursuing to become a full-time Open-Source developer
 
 <!--
 **danielbrendel/danielbrendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
