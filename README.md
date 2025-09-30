@@ -31,3 +31,9 @@ I love creating complex software products across a range of fields, including we
 [![Activity](https://github-readme-stats.vercel.app/api?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel) \
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel)
 
+## You can also find me here 📫
+* [Bluesky](https://bsky.app/profile/danielbrendel.com)
+* [Discord](https://discord.gg/kc6xGmjzVS)
+* [LinkedIn](https://www.linkedin.com/in/daniel-brendel-developer)
+* [Steam](https://store.steampowered.com/developer/danielbrendel)
+* [itch.io](https://danielbrendel.itch.io/)
