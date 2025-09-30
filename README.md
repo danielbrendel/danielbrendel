@@ -31,6 +31,3 @@ I love creating complex software products across a range of fields, including we
 [![Activity](https://github-readme-stats.vercel.app/api?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel) \
 [![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel)
 
-## Currently working at 💼
-
-After working as a software developer in various companies I am now pursuing to become a full-time Open-Source developer
