@@ -26,6 +26,7 @@ I love creating complex software products across a range of fields, including we
 ![](https://img.shields.io/badge/ide-visual_studio_community-orange)
 ![](https://img.shields.io/badge/ide-phpstorm-orange)
 ![](https://img.shields.io/badge/ide-android_studio-orange)
+![](https://img.shields.io/badge/shell-aquashell-brown)
 
 ## Statistics 📈
 [![Activity](https://github-readme-stats.vercel.app/api?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel) \
