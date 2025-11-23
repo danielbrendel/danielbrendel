@@ -28,10 +28,6 @@ I love creating complex software products across a range of fields, including we
 ![](https://img.shields.io/badge/ide-android_studio-orange)
 ![](https://img.shields.io/badge/shell-aquashell-brown)
 
-## Statistics 📈
-[![Activity](https://github-readme-stats.vercel.app/api?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel) \
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs?username=danielbrendel&show_icons=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8b&bg_color=1d1f22)](https://github.com/danielbrendel)
-
 ## You can also find me here 📫
 * [Bluesky](https://bsky.app/profile/danielbrendel.com)
 * [Discord](https://discord.gg/kc6xGmjzVS)
