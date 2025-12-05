@@ -34,3 +34,8 @@ I love creating complex software products across a range of fields, including we
 * 🎮 [Steam](https://store.steampowered.com/developer/danielbrendel)
 * 🕹️ [itch.io](https://danielbrendel.itch.io/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/daniel-brendel-developer)
+
+## Support me
+
+* [GitHub Sponsoring](https://github.com/sponsors/danielbrendel)
+* [Ko-Fi Donation](https://ko-fi.com/danielbrendel)
