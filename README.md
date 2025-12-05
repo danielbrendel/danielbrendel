@@ -29,8 +29,8 @@ I love creating complex software products across a range of fields, including we
 ![](https://img.shields.io/badge/shell-aquashell-brown)
 
 ## You can also find me here 📫
-* [Bluesky](https://bsky.app/profile/danielbrendel.com)
-* [Discord](https://discord.gg/kc6xGmjzVS)
-* [LinkedIn](https://www.linkedin.com/in/daniel-brendel-developer)
-* [Steam](https://store.steampowered.com/developer/danielbrendel)
-* [itch.io](https://danielbrendel.itch.io/)
+* 🦋 [Bluesky](https://bsky.app/profile/danielbrendel.com)
+* 💬 [Discord](https://discord.gg/kc6xGmjzVS)
+* 🎮 [Steam](https://store.steampowered.com/developer/danielbrendel)
+* 🕹️ [itch.io](https://danielbrendel.itch.io/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/daniel-brendel-developer)
