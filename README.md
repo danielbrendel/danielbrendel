@@ -2,7 +2,7 @@
 
 I'm a senior indie software developer and project founder from Germany.
 
-I love creating complex software products across a range of fields, including web development, game development and application development. While I work with many programming languages, PHP and C++ are my main ones. Over the years, I've founded various projects and am excited to create more. I have strong expertise in designing and building complex software ecosystems. I'm furthermore an open-source advocate and passionate about promoting the values of Free and Open-Source Software.
+I love creating complex software products across a range of fields, including web development, game development and application development. While I work with many programming languages, PHP and C++ are my main ones. Over the years, I've founded various projects and am excited to create more. I have strong expertise in designing and building complex software ecosystems. I'm furthermore an open-source advocate and passionate about promoting the values of free and open-source software.
 
 ## Technologies 🔧
 
@@ -29,8 +29,8 @@ I love creating complex software products across a range of fields, including we
 ![](https://img.shields.io/badge/shell-aquashell-brown)
 
 ## You can also find me here 📫
+* 🌍 [Homepage](https://www.danielbrendel.com/)
 * 🦋 [Bluesky](https://bsky.app/profile/danielbrendel.com)
-* 💬 [Discord](https://discord.gg/kc6xGmjzVS)
 * 🎮 [Steam](https://store.steampowered.com/developer/danielbrendel)
 * 🕹️ [itch.io](https://danielbrendel.itch.io/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/daniel-brendel-developer)
