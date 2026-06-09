@@ -30,10 +30,10 @@ I love creating complex software products across a range of fields, including we
 
 ## You can also find me here 📫
 * 🌍 [Homepage](https://www.danielbrendel.com/)
-* 🦋 [Bluesky](https://bsky.app/profile/danielbrendel.com)
 * 🎮 [Steam](https://store.steampowered.com/developer/danielbrendel)
 * 🕹️ [itch.io](https://danielbrendel.itch.io/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/daniel-brendel-developer)
+* 🎬 [YouTube](https://www.youtube.com/@DanielBrendelDeveloper)
 
 ## Support me
 
