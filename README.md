@@ -32,6 +32,7 @@ I love creating complex software products across a range of fields, including we
 * 🌍 [Homepage](https://www.danielbrendel.com/)
 * 🎮 [Steam](https://store.steampowered.com/developer/danielbrendel)
 * 🕹️ [itch.io](https://danielbrendel.itch.io/)
+* 📢 [Mastodon](https://fosstodon.org/@dbrendeldev)
 * 💼 [LinkedIn](https://www.linkedin.com/in/daniel-brendel-developer)
 * 🎬 [YouTube](https://www.youtube.com/@DanielBrendelDeveloper)
 
